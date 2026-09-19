@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_vercel/
+Disallow: /api/
+Disallow: /.git/
+
+Sitemap: https://anti-a-i-photo-editor-photo-on-phot.vercel.app/sitemap.xml
